@@ -4,4 +4,4 @@
 
 [Файлы реферата](https://github.com/NotThatOneShalfey/devops-report/)
 
-[Файлы реферата в MD](devops-md-doc/)
+[Файлы реферата в MD](https://github.com/NotThatOneShalfey/devops-md-doc/)
