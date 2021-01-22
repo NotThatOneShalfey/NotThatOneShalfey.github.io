@@ -2,6 +2,6 @@
 
 Главная страница
 
-[Файлы реферата](devops-report/)
+[Файлы реферата](https://github.com/NotThatOneShalfey/devops-report/)
 
 [Файлы реферата в MD](devops-md-doc/)
