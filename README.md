@@ -4,4 +4,4 @@
 
 [Файлы реферата](devops-report/)
 
-[Реферат в MD](devops-md-doc/ref.md)
+[Файлы реферата в MD](devops-md-doc/)
