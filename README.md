@@ -3,3 +3,5 @@
 Главная страница
 
 [Файлы реферата](devops-report/)
+
+[Реферат в MD](devops-md-doc/ref.md)
